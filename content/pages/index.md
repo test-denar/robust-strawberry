@@ -6,7 +6,7 @@ sections:
     title: Hero Section
     image: images/5.jpg
     content: >
-      ![](/images/remarkable-cabbage.jpeg)
+      ![](/images/elite-tortoise.jpeg)
 
 
       This section can contain a subtitle or tagline. The recommended length is
