@@ -6,7 +6,7 @@ sections:
     title: Hero Section
     image: images/5.jpg
     content: >
-      ![](/images/LARGE_elevation.jpeg)![](/images/GFP_HeroSection-LogoV4\_ess\_20210725.png)This
+      ![](<stackbit_asset_id:static:public/images/LARGE elevation.jpeg>)This
       section can contain a subtitle or tagline. The recommended length is one
       to three sentences, but can be changed as you prefer.
     actions:
