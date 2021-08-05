@@ -6,7 +6,7 @@ sections:
     title: Hero Section
     image: images/5.jpg
     content: >
-      ![](/images/elite-tortoise.jpeg)
+      !\[/images/LARGE elevation.jpeg]
 
 
       This section can contain a subtitle or tagline. The recommended length is
