@@ -6,7 +6,7 @@ sections:
     title: Hero Section
     image: images/5.jpg
     content: >
-      !\[/images/LARGE elevation.jpeg]
+      ![](<stackbit_asset_id:static:public/images/LARGE elevation.jpeg>)
 
 
       This section can contain a subtitle or tagline. The recommended length is
